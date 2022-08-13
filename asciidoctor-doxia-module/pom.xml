@@ -18,7 +18,7 @@
     <url>https://github.com/asciidoctor/asciidoctor-maven-plugin</url>
 
     <properties>
-        <doxia.version>1.11.1</doxia.version>
+        <doxia.version>2.0.0-M3</doxia.version>
         <maven.coveralls.plugin.version>4.3.0</maven.coveralls.plugin.version>
         <plexus.component.metadata.version>1.7</plexus.component.metadata.version>
     </properties>
